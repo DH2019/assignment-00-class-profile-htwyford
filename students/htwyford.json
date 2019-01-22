@@ -1,0 +1,14 @@
+{
+  "firstName": "Harry",
+  "lastName": "Twyford",
+  "nickName": "",
+  "privateName": false,
+  "picture": "images/htwyford.jpg",
+  "privatePicture": false,
+  "email": "harry.twyford@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "htwyford",
+  "privateGithub": false,
+  "superpower" : "Kraft Dinner chef; open source contributor",
+  "academicinterests": "What's at the intersection of software and politics?"
+}
